@@ -1,0 +1,46 @@
+# ninja log v5
+5	268	6976786865666396	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Application Layer/IO Composition SWC/LED Mode SWC/LED_Mode.pbi	b1c2907c3dcb4997
+13	428	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Application Layer/Com Interface Composition SWC/Send Command SWC/Send_Command.xcl	63a05500ab884437
+601	678	6950800670000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/Service Layer/Operating System/OS.xcl	2ec0536176b04604
+9	251	6976786865606458	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Application Layer/Com Interface Composition SWC/Send Command SWC/Send_Command.pbi	d10ed96c1a2b62e0
+412	509	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/BSW Containers/I/O Block/Port_PBcfg.xcl	f9d36ac2856fda13
+17	107	6976786863898678	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/ECUAL/I/O Module/Button Module/Button.pbi	1be962f0ab7398ee
+647	701	6950800670478457	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/BSW Containers/I/O Block/Dio_Lcfg.pbi	7ec2d0f6341e8af2
+532	649	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/main.xcl	9f0e14f9387706a9
+383	594	6976786868906882	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Final_part0.pbi	aba9ac26abe540c0
+10	108	6950804168640471	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/BSW Containers/I/O Block/Port_PBcfg.pbi	3796acd2cc7cc31b
+426	522	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/CAN Driver/Can.xcl	25009cfdc1f00b6b
+58	447	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/ECUAL/I/O Module/Button Module/Button.xcl	e07b25279d9f22b1
+43	415	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Application Layer/Application SWC/APP.xcl	241d3a9b13f524ff
+47	399	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/ECUAL/CAN Interface Module/Can_Int.xcl	3c26da58ca8d737b
+61	385	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/ECUAL/I/O Module/LED Module/Led.xcl	9d43e5cf48ddfa90
+54	480	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/BSW Containers/I/O Block/Dio_Lcfg.xcl	849d30af01313bef
+397	494	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Application Layer/IO Composition SWC/LED Mode SWC/LED_Mode.xcl	4a622847bb9299bc
+892	2087	6976786883518865	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Final.pbw	46e1b762c54c72ef
+443	535	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/GPT Driver/GPT.xcl	847cd2deb1f8b014
+459	548	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/DIO Driver/Dio.xcl	ba8b5c608b273064
+492	577	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/Port Driver/Port.xcl	6822e7d8a1b4b20a
+506	590	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/SysTick Timer Driver/Systick.xcl	9e87704ea93d15eb
+519	604	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/ECUAL/Timer Module/Timer.xcl	e10d59dff8ae6a96
+265	515	6976786868256882	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/main.pbi	83fc0f918649541f
+105	169	6976786864792180	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/ECUAL/I/O Module/LED Module/Led.pbi	404672e787766378
+545	638	6950800660000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/startup_ewarm.xcl	a23f08c7f84c7b4f
+11	359	6976786866706843	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Application Layer/Application SWC/APP.pbi	945e4d32cda6cf4f
+123	212	6976786865236318	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/ECUAL/Timer Module/Timer.pbi	6561e466499b45c5
+88	283	6976786865866586	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/ECUAL/CAN Interface Module/Can_Int.pbi	c51514ab6d508731
+814	880	6950800672278448	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/startup_ewarm.pbi	5ef8bf909c3d5a65
+550	684	6976786869971937	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Final_part3.pbi	f849448737f0cfa9
+14	91	6976786863889009	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/DIO Driver/Dio.pbi	7a86577b49b76844
+294	386	6976786866886858	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/GPT Driver/GPT.pbi	b3bc6c7dba261f7a
+368	531	6976786868426875	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/Port Driver/Port_PBcfg.pbi	e565671f8afe4c3
+223	299	6976786866106577	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/SysTick Timer Driver/Systick.pbi	aaacf53a162c403
+179	374	6976786866846863	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/CAN Driver/Can.pbi	7d63c16a2208249a
+309	496	6976786867976877	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/Port Driver/Port.pbi	3e09c9ae2731c0a7
+953	973	6950800673163594	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Final_part4.pbi	f35929a03d094972
+280	540	6976786868506862	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/Service Layer/Operating System/OS.pbi	7cc0ad725f73a47c
+506	578	6976786868906882	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Final_part2.pbi	be7f18b26a6ca909
+396	479	6976786867906894	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Final_part1.pbi	555b10af359060c7
+703	872	6976786871850099	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/Final.pbd	1639fb9b0b27bc
+6	75	6976782350000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/DIO Driver/Dio_Lcfg.xcl	fb092a2b888dce87
+10	98	6976782350000000	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/Port Driver/Port_PBcfg.xcl	5e91aae579d52c90
+20	76	6976786863878962	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/BrowseInfo/BSW/MCAL/DIO Driver/Dio_Lcfg.pbi	2eefba4e3fed8b6e

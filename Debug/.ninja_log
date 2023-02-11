@@ -1,0 +1,101 @@
+# ninja log v5
+35	416	6949993299510808	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/BSW Containers/I/O Block/Dio_Lcfg.o	5ad85c8ff8b61efe
+4	233	6949993297790837	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/ECUAL/Timer Module/Timer.o	543ab488082a2d08
+30	396	6949993299250879	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/ECUAL/I/O Module/Button Module/Button.o	ad23d619a431283a
+9	307	6949993298550814	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/BSW Containers/I/O Block/Port_PBcfg.o	87d332d09fb71b7b
+530	734	6949993302690854	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/IO Composition SWC/LED Mode SWC/LED_Mode.o	cc0ecf8dc93107ec
+26	327	6949993298570864	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/ECUAL/I/O Module/LED Module/Led.o	6152d247d48d5a14
+566	814	6949993303610855	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/Application SWC/APP.o	514c131c6df5506b
+452	715	6949993302440866	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/Com Interface Composition SWC/Send Command SWC/Send_Command.o	e7207cc654059135
+247	361	6949993298800825	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/SysTick Timer Driver/Systick.o	71a41e19e95546ba
+22	436	6949993299490857	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/ECUAL/CAN Interface Module/Can_Int.o	d6acf16c1001b233
+323	516	6949993300660804	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/DIO Driver/Dio.o	6a64fad72d420c2c
+342	612	6949993301600819	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/CAN Driver/Can.o	c817771174558fc5
+432	549	6949993300890794	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/GPT Driver/GPT.o	20d4956e6edfe42d
+696	831	6949993303620809	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/startup_ewarm.o	ab4d3af8b9e5ea58
+411	681	6949993302250812	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/Service Layer/Operating System/OS.o	a16ca7103053b9cf
+627	899	6949993304480782	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/main.o	11d3e86168c4fb
+377	871	6949993304190783	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/Port Driver/Port.o	cab6a61075b21a16
+913	1034	6949993305770822	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Exe/Final.out	64432d7276e8c735
+38	112	6950206895767200	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/BSW Containers/I/O Block/Dio_Lcfg.o	5ad85c8ff8b61efe
+29	143	6950206895877190	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/ECUAL/I/O Module/LED Module/Led.o	6152d247d48d5a14
+127	218	6950206896817553	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/ECUAL/Timer Module/Timer.o	543ab488082a2d08
+33	251	6950206896877563	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/ECUAL/CAN Interface Module/Can_Int.o	d6acf16c1001b233
+6	270	6950206896897564	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/Com Interface Composition SWC/Send Command SWC/Send_Command.o	e7207cc654059135
+25	294	6950206897057587	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/Application SWC/APP.o	514c131c6df5506b
+19	316	6950206896977575	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/IO Composition SWC/LED Mode SWC/LED_Mode.o	cc0ecf8dc93107ec
+159	351	6950206897227578	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/ECUAL/I/O Module/Button Module/Button.o	ad23d619a431283a
+312	423	6950206898867576	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/SysTick Timer Driver/Systick.o	71a41e19e95546ba
+334	443	6950206898877578	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/GPT Driver/GPT.o	20d4956e6edfe42d
+232	486	6950206899497566	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/BSW Containers/I/O Block/Port_PBcfg.o	87d332d09fb71b7b
+290	519	6950206899657560	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/DIO Driver/Dio.o	6a64fad72d420c2c
+502	586	6950206900490149	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/startup_ewarm.o	ab4d3af8b9e5ea58
+367	636	6950206900960104	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/Service Layer/Operating System/OS.o	a16ca7103053b9cf
+439	665	6950206901260117	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/CAN Driver/Can.o	c817771174558fc5
+460	682	6950206901190120	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/main.o	11d3e86168c4fb
+266	769	6950206902280104	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/MCAL/Port Driver/Port.o	cab6a61075b21a16
+788	888	6950206903501703	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Exe/Final.out	64432d7276e8c735
+644	1037	6950597975110167	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/Com Interface Composition SWC/Send Command SWC/Send_Command.o	e7207cc654059135
+6	1070	6950597975400161	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/IO Composition SWC/LED Mode SWC/LED_Mode.o	cc0ecf8dc93107ec
+652	1087	6950597975340159	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/Application SWC/APP.o	514c131c6df5506b
+670	1135	6950597976090181	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/Service Layer/Operating System/OS.o	a16ca7103053b9cf
+678	1166	6950597976240223	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/main.o	11d3e86168c4fb
+1180	1940	6950597984161282	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Exe/Final.out	64432d7276e8c735
+6	486	6950620110221630	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/Com Interface Composition SWC/Send Command SWC/Send_Command.o	e7207cc654059135
+66	503	6950620110221630	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/IO Composition SWC/LED Mode SWC/LED_Mode.o	cc0ecf8dc93107ec
+77	535	6950620110621323	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/Application Layer/Application SWC/APP.o	514c131c6df5506b
+101	596	6950620111341665	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/main.o	11d3e86168c4fb
+89	627	6950620111551358	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Obj/BSW/Service Layer/Operating System/OS.o	a16ca7103053b9cf
+642	794	6950620113342667	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Final Project V4/Debug/Exe/Final.out	64432d7276e8c735
+2	254	6950800695078218	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/Application Layer/Application SWC/APP.o	cbf239a5634aa30d
+6	269	6950800695148218	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/Application Layer/IO Composition SWC/LED Mode SWC/LED_Mode.o	fc021f62c85d574b
+11	297	6950800695468214	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/BSW Containers/I/O Block/Port_PBcfg.o	c25fd5db71e75294
+18	310	6950800695268225	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/I/O Module/Button Module/Button.o	8ec74b0cbde217e5
+8	325	6950800695308215	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/Application Layer/Com Interface Composition SWC/Send Command SWC/Send_Command.o	fa4b02a1c06dcaba
+15	341	6950800695428230	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/CAN Interface Module/Can_Int.o	f883b7f74df0c7e6
+265	376	6950800696338232	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/BSW Containers/I/O Block/Dio_Lcfg.o	32d65572808e769c
+281	400	6950800696538220	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/I/O Module/LED Module/Led.o	6501776db12d3a60
+307	427	6950800696768207	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/Timer Module/Timer.o	dd1f18a7d86a4348
+337	451	6950800696988218	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/SysTick Timer Driver/Systick.o	8ce7214f517355d7
+322	484	6950800697408213	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/DIO Driver/Dio.o	f44fd2a7fc6c96c1
+436	531	6950800697868243	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/GPT Driver/GPT.o	4467c760c9c6930d
+461	551	6950800697958217	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/startup_ewarm.o	b48553426ce96e94
+410	573	6950800698298217	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/CAN Driver/Can.o	652fddcd63989547
+352	590	6950800698378213	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/Service Layer/Operating System/OS.o	5a54fdf49f9f21d9
+494	641	6950800698968205	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/main.o	65632d314ee86103
+386	712	6950800699707727	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/Port Driver/Port.o	426e2603e5488cec
+722	1074	6950800703348772	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Exe/Final.out	ecb58818625e781b
+4	260	6976782307489681	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/Application Layer/Application SWC/APP.o	cbf239a5634aa30d
+13	301	6976782307630169	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/Timer Module/Timer.o	dd1f18a7d86a4348
+7	318	6976782307774759	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/Application Layer/Com Interface Composition SWC/Send Command SWC/Send_Command.o	fa4b02a1c06dcaba
+274	372	6976782308669464	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/I/O Module/Button Module/Button.o	8ec74b0cbde217e5
+314	401	6976782308799462	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/I/O Module/LED Module/Led.o	6501776db12d3a60
+19	419	6976782308869451	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/CAN Interface Module/Can_Int.o	f883b7f74df0c7e6
+10	437	6976782308889448	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/Application Layer/IO Composition SWC/LED Mode SWC/LED_Mode.o	fc021f62c85d574b
+22	471	6976782309079459	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/DIO Driver/Dio.o	f44fd2a7fc6c96c1
+432	511	6976782310096751	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/DIO Driver/Dio_Lcfg.o	da93cb5429a65276
+385	536	6976782310146759	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/SysTick Timer Driver/Systick.o	8ce7214f517355d7
+335	582	6976782310765297	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/CAN Driver/Can.o	652fddcd63989547
+484	606	6976782310935303	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/GPT Driver/GPT.o	4467c760c9c6930d
+522	625	6976782311225296	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/Port Driver/Port_PBcfg.o	79abf5f46b1b3b82
+451	701	6976782311965719	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/Service Layer/Operating System/OS.o	5a54fdf49f9f21d9
+548	724	6976782312095057	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/main.o	65632d314ee86103
+415	772	6976782312683306	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/Port Driver/Port.o	426e2603e5488cec
+784	849	6976782313472533	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Exe/Final.out	bcf8941322c588be
+26	228	6976787076598606	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/Timer Module/Timer.o	dd1f18a7d86a4348
+19	303	6976787077339605	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/Application Layer/Com Interface Composition SWC/Send Command SWC/Send_Command.o	fa4b02a1c06dcaba
+38	328	6976787077388694	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/I/O Module/Button Module/Button.o	8ec74b0cbde217e5
+31	359	6976787077867023	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/DIO Driver/Dio.o	f44fd2a7fc6c96c1
+5	405	6976787078307162	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/Application Layer/Application SWC/APP.o	cbf239a5634aa30d
+343	434	6976787078522852	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/I/O Module/LED Module/Led.o	6501776db12d3a60
+242	449	6976787078492860	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/CAN Driver/Can.o	652fddcd63989547
+22	464	6976787078728224	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/Application Layer/IO Composition SWC/LED Mode SWC/LED_Mode.o	fc021f62c85d574b
+418	502	6976787079392674	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/DIO Driver/Dio_Lcfg.o	da93cb5429a65276
+446	530	6976787079580088	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/SysTick Timer Driver/Systick.o	8ce7214f517355d7
+317	545	6976787079610062	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/ECUAL/CAN Interface Module/Can_Int.o	f883b7f74df0c7e6
+371	567	6976787079889168	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/Port Driver/Port_PBcfg.o	79abf5f46b1b3b82
+460	590	6976787080217117	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/GPT Driver/GPT.o	4467c760c9c6930d
+542	684	6976787081201624	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/main.o	65632d314ee86103
+477	703	6976787081260404	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/Service Layer/Operating System/OS.o	5a54fdf49f9f21d9
+516	860	6976787082909725	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Obj/BSW/MCAL/Port Driver/Port.o	426e2603e5488cec
+879	985	6976787084183767	C:/Users/lenovo/Desktop/Uni/Senior 2/Semester 9/Automotive Embedded/Final/Foreground Background OS/Debug/Exe/Final.out	bcf8941322c588be
